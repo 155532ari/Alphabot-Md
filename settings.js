@@ -32,7 +32,7 @@ global.autobio = false //auto ganti bio
 global.anticall = false//anti call, jika true maka org yg nelpon bot auto di blokir
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
-global.autolevelup = true
+global.autolevelup = false
 global.auto_antilink = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
 global.auto_antilink2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
 global.auto_badword = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yg mengirim kata kasar
@@ -50,7 +50,7 @@ global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 //You can request others language 
 global.language = english //change indonesia to english if you don't understand the language used by the bot
 //global.language = english // use this for English language
-//global.language = spanyol // use this for Spanyol language
+//global.language = english // use this for Spanyol language
 
 // Other
 // Other
